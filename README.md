@@ -1,6 +1,6 @@
 <h1 align="center">Animated Countdown</h1><br>
 <br>
-<p align"center">
+<p align="center">
 Live preview: <a href="https://ash-win-n.github.io/animated-countdown/">Animated countdown</a></p><br>
 
 <p align="center">
